@@ -1,73 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/lcid-website/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/team-member/karlijn-hermans-phd/</loc>
+		<loc>/lcid-website/team-member/karlijn-hermans-phd/</loc>
 		<lastmod>2022-04-13T09:50:22+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/Leiden-CID-Karlijn-Hermans-min.png</image:loc>
+			<image:loc>/lcid-website/wp-content/uploads/Leiden-CID-Karlijn-Hermans-min.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/team-member/stephan-heunis-phd/</loc>
+		<loc>/lcid-website/team-member/stephan-heunis-phd/</loc>
 		<lastmod>2022-04-13T09:50:42+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/Leiden-CID-Stephan-Heunis-min.png</image:loc>
+			<image:loc>/lcid-website/wp-content/uploads/Leiden-CID-Stephan-Heunis-min.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/team-member/lina-van-drunen-msc/</loc>
+		<loc>/lcid-website/team-member/lina-van-drunen-msc/</loc>
 		<lastmod>2022-04-13T09:51:14+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/Leiden-CID-Lina-van-Drunen-min.png</image:loc>
+			<image:loc>/lcid-website/wp-content/uploads/Leiden-CID-Lina-van-Drunen-min.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/team-member/simone-dobbelaar-msc/</loc>
+		<loc>/lcid-website/team-member/simone-dobbelaar-msc/</loc>
 		<lastmod>2022-04-13T09:51:20+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/Leiden-CID-Simone-Dobbelaar-min.png</image:loc>
+			<image:loc>/lcid-website/wp-content/uploads/Leiden-CID-Simone-Dobbelaar-min.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/team-member/prof-eveline-crone-phd/</loc>
+		<loc>/lcid-website/team-member/prof-eveline-crone-phd/</loc>
 		<lastmod>2022-04-13T09:58:26+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/Leiden-CID-Prof.dr_.Eveline-Crone-min.png</image:loc>
+			<image:loc>/lcid-website/wp-content/uploads/Leiden-CID-Prof.dr_.Eveline-Crone-min.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/team-member/yara-toenders-msc/</loc>
+		<loc>/lcid-website/team-member/yara-toenders-msc/</loc>
 		<lastmod>2022-04-13T10:01:46+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/Leiden-CID-Yara-Toenders-min-1.png</image:loc>
+			<image:loc>/lcid-website/wp-content/uploads/Leiden-CID-Yara-Toenders-min-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/team-member/mara-van-der-meulen-phd/</loc>
+		<loc>/lcid-website/team-member/mara-van-der-meulen-phd/</loc>
 		<lastmod>2022-04-14T08:33:41+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/Leiden-CID-Mara-van-der-Meulen-min-2.png</image:loc>
+			<image:loc>/lcid-website/wp-content/uploads/Leiden-CID-Mara-van-der-Meulen-min-2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/team-member/simone-mulder-msc/</loc>
+		<loc>/lcid-website/team-member/simone-mulder-msc/</loc>
 		<lastmod>2022-04-15T12:06:59+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/Leiden-CID-Simone-Mulder-min-1.png</image:loc>
+			<image:loc>/lcid-website/wp-content/uploads/Leiden-CID-Simone-Mulder-min-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/team-member/lara-m-wierenga-phd/</loc>
+		<loc>/lcid-website/team-member/lara-m-wierenga-phd/</loc>
 		<lastmod>2022-04-20T19:40:43+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/Leiden-CID-Lara-Wierenga-min.png</image:loc>
+			<image:loc>/lcid-website/wp-content/uploads/Leiden-CID-Lara-Wierenga-min.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/team-member/michelle-achterberg-phd/</loc>
+		<loc>/lcid-website/team-member/michelle-achterberg-phd/</loc>
 		<lastmod>2022-09-20T10:35:20+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/team_michelle_mirrored-removebg-preview.png</image:loc>
+			<image:loc>/lcid-website/wp-content/uploads/team_michelle_mirrored-removebg-preview.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

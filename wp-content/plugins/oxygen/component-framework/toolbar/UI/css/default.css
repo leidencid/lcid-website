@@ -5,24 +5,24 @@
 
 @font-face {
   font-family: "Flaticons-Solid";
-  src: url("/wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonssolid/flaticons-solid.eot");
-  src: url("/wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonssolid/flaticons-solid.eot#iefix")
+  src: url("/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonssolid/flaticons-solid.eot");
+  src: url("/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonssolid/flaticons-solid.eot#iefix")
       format("embedded-opentype"),
-    url("/wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonssolid/flaticons-solid.woff") format("woff"),
-    url("/wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonssolid/flaticons-solid.ttf") format("truetype"),
-    url("/wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonssolid/flaticons-solid.svg#flaticons-solid")
+    url("/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonssolid/flaticons-solid.woff") format("woff"),
+    url("/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonssolid/flaticons-solid.ttf") format("truetype"),
+    url("/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonssolid/flaticons-solid.svg#flaticons-solid")
       format("svg");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Flaticons-Stroke";
-  src: url("/wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.eot");
-  src: url("/wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.eot#iefix")
+  src: url("/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.eot");
+  src: url("/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.eot#iefix")
       format("embedded-opentype"),
-    url("/wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.woff") format("woff"),
-    url("/wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.ttf") format("truetype"),
-    url("/wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.svg#flaticons-stroke")
+    url("/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.woff") format("woff"),
+    url("/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.ttf") format("truetype"),
+    url("/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.svg#flaticons-stroke")
       format("svg");
   font-weight: normal;
   font-style: normal;
@@ -612,7 +612,7 @@ body.oxygen-builder-body {
   -webkit-appearance: none; /*Removes default chrome and safari style*/
   -moz-appearance: none; /*Removes Default Firefox style*/
   appearance: none;
-  background: transparent url(/wp-content/plugins/oxygen/component-framework/toolbar/UI/images/ct-dropdown-arrow.png) no-repeat 100%
+  background: transparent url(/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/images/ct-dropdown-arrow.png) no-repeat 100%
     center;
   box-shadow: none;
   cursor: pointer;
@@ -623,7 +623,7 @@ body.oxygen-builder-body {
   text-overflow: ""; /*Removes default arrow from firefox*/
 }
 .ct-selectbox:hover select {
-  background-image: url(/wp-content/plugins/oxygen/component-framework/toolbar/UI/images/ct-dropdown-arrow-hover.png);
+  background-image: url(/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/images/ct-dropdown-arrow-hover.png);
 }
 .ct-selectbox select:focus {
   outline: none;
@@ -1673,7 +1673,7 @@ bottom: 0;
   display: block;
 }
 .ct-top-box-arrow {
-  background: transparent url(/wp-content/plugins/oxygen/component-framework/toolbar/UI/images/img_top_box_arrow.png) no-repeat center;
+  background: transparent url(/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/images/img_top_box_arrow.png) no-repeat center;
   position: absolute;
   left: calc(50% - 10px);
   top: -10px;
@@ -1905,7 +1905,7 @@ bottom: 0;
   float: left;
 }
 .ct-checkered-bg {
-  background-image: url(/wp-content/plugins/oxygen/component-framework/toolbar/UI/images/bg_checkered.png);
+  background-image: url(/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/images/bg_checkered.png);
 }
 .ct-color-handle {
   cursor: pointer;
@@ -1918,13 +1918,13 @@ bottom: 0;
   padding: 0;
 }
 .ct-color-picker-box {
-  background: transparent url(/wp-content/plugins/oxygen/component-framework/toolbar/UI/images/bg_color-picker.jpg) no-repeat top right;
+  background: transparent url(/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/images/bg_color-picker.jpg) no-repeat top right;
   height: 147px;
   position: relative;
   width: 222px;
 }
 .ct-color-picker-box .ct-color-handle {
-  background: transparent url(/wp-content/plugins/oxygen/component-framework/toolbar/UI/images/img_color_handle.png) no-repeat top
+  background: transparent url(/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/images/img_color_handle.png) no-repeat top
     right;
   height: 33px;
   left: 108px;
@@ -3032,7 +3032,7 @@ input:checked + .ct-control-button {
   padding-bottom: 0;
 }
 .ct-text-editor {
-  background: #ffffff url(/wp-content/plugins/oxygen/component-framework/toolbar/UI/images/bg-text-editor.jpg) no-repeat top left;
+  background: #ffffff url(/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/images/bg-text-editor.jpg) no-repeat top left;
   border: 1px solid #cfd8dc;
   -webkit-border-radius: var(--oxy-border-radius);
   -moz-border-radius: var(--oxy-border-radius);
@@ -3516,7 +3516,7 @@ input:checked + .ct-control-button {
 
 .ct-asteriks-icon,
 .ct-elipsis-icon {
-  background-image: url(/wp-content/plugins/oxygen/component-framework/toolbar/UI/images/sprites.png);
+  background-image: url(/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/images/sprites.png);
   height: 17px;
   width: 18px;
 }

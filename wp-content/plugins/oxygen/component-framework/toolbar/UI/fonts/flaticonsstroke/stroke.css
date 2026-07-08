@@ -1,10 +1,10 @@
 @font-face {
   font-family: "Flaticons Stroke";
-  src: url("/wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.eot");
-  src: url("/wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.eot#iefix") format("embedded-opentype"),
-    url("/wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.woff") format("woff"),
-    url("/wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.ttf") format("truetype"),
-    url("/wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.svg#flaticons-stroke") format("svg");
+  src: url("/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.eot");
+  src: url("/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.eot#iefix") format("embedded-opentype"),
+    url("/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.woff") format("woff"),
+    url("/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.ttf") format("truetype"),
+    url("/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/fonts/flaticonsstroke/flaticons-stroke.svg#flaticons-stroke") format("svg");
   font-weight: normal;
   font-style: normal;
 }

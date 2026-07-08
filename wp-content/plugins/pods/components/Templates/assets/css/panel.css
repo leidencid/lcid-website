@@ -370,7 +370,7 @@ h3.pods_templates-config-header {
 }
 
 .show-elements-tab {
-	background:      url("/wp-content/plugins/pods/wp-admin/images/arrows.png") no-repeat scroll right 4px transparent;
+	background:      url("/lcid-website//wp-content/plugins/pods/wp-admin/images/arrows.png") no-repeat scroll right 4px transparent;
 	color:           #777;
 	display:         block;
 	font-size:       12px;
@@ -383,7 +383,7 @@ h3.pods_templates-config-header {
 }
 
 .show-elements-tab.active {
-	background: url("/wp-content/plugins/pods/wp-admin/images/arrows.png") no-repeat scroll right -31px transparent;
+	background: url("/lcid-website//wp-content/plugins/pods/wp-admin/images/arrows.png") no-repeat scroll right -31px transparent;
 }
 
 .show-element-selector {

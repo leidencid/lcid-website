@@ -380,7 +380,7 @@
   position: relative;
 }
 .ct-dom-tree-node.ct-dom-tree-node-expanded:not(.ct-dom-tree-no-children) {
-  background: transparent url(/wp-content/plugins/oxygen/component-framework/toolbar/UI/images/bg_dashed-vertical.png) repeat-y 4px 0;
+  background: transparent url(/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/images/bg_dashed-vertical.png) repeat-y 4px 0;
 }
 /*
 .ct-elements-managers-bottom > .ct-dom-tree-node.ct-dom-tree-node-expanded:not(.ct-dom-tree-no-children):before {
@@ -414,7 +414,7 @@
 }
 
 .ct-dom-tree-horizontal-dash {
-  background: transparent url(/wp-content/plugins/oxygen/component-framework/toolbar/UI/images/bg_dashed-horizontal.png) repeat-x 0 0;
+  background: transparent url(/lcid-website//wp-content/plugins/oxygen/component-framework/toolbar/UI/images/bg_dashed-horizontal.png) repeat-x 0 0;
   display: block;
   height: 38px;
   position: absolute;
